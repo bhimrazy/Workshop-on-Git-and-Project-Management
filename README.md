@@ -69,3 +69,7 @@
         $ git diff
         -- Hit q to get out of the diff
     ```
+- [ ] Try making some changes from github to readme file and then pull the changes
+    ```
+        $ git pull
+    ```
