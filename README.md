@@ -148,5 +148,20 @@
 - [ ] Demonstration with few example.
 - [ ] See some concepts of CI/CD
 - [ ] How testing and deployment works.
+- [ ] Writing readme files in readme.so
 
- 
+## 📚 RESOURCES:
+
+1. Git Cheat Sheet: [https://training.github.com/downloads/github-git-cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+2. Git Cheat Sheet by Mosh: [https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf)
+3. Training Manual: [https://githubtraining.github.io/training-manual/](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+4. Git Downloads: [http://www.git-scm.com/downloads](http://www.git-scm.com/downloads)
+5. VS Code Download: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+## Authors
+
+- [@bhimrazy](https://www.github.com/bhimrazy)
+
+
+## License
+
+[MIT](https://github.com/bhimrazy/Workshop-on-Git-and-Project-Management/blob/main/LICENSE)
