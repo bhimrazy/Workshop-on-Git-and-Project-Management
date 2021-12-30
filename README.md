@@ -17,4 +17,23 @@
       //Sets the name you want attached to your commit transactions
       $ git config --global user.email "[email address]"
   ```
+### Step 2: First Commit
+- [ ] Create a markdown file named "README.md"
+- [ ] Add few lines of dummy content
+- [ ] Check status
+- [ ] Stage the changes and commit with a message
+    ``` 
+        $ git status
 
+        Stage single file
+        $ git add [file]
+
+        Stage all files with in the repo at once
+        $ git add .
+
+        Commit the changes
+        $ git commit -m"[descriptive message]"
+
+        To add and commit at once
+        $ git commit -am"[descriptive message]"
+    ```
