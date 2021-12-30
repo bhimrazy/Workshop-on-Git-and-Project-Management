@@ -1,6 +1,12 @@
-# Workshop-on-Git-and-Project-Management
+# Workshop on Git and Project Management
+<p align="center">
+    <img alt="git-workshop-cover" src="https://user-images.githubusercontent.com/46085301/147738841-9c534b07-b7b0-40ae-989f-f37f78f277d8.png" />
+</p>
 
-##Prerequisites for the workshop - Install Git - Setup Github Account - Install VS Code
+## Prerequisites for the workshop 
+- Install Git 
+- Setup Github Account 
+- Install VS Code
 
 ## Steps to be followed for the Workshop.
 
