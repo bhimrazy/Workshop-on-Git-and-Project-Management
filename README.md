@@ -14,7 +14,7 @@
 - [ ] Create folder named git-workshop on desktop
 - [ ] Open the folder in vscode
 - [ ] Configure git bash as default terminal
-- [ ] Setup user configuration
+- [ ] Setup user configuration and then initialize the repo
     
   ```
       -- Configure user information for all local repositories
@@ -22,6 +22,9 @@
 
       -- Sets the name you want attached to your commit transactions
       $ git config --global user.email "[email address]"
+
+      -- Initialize the repo
+      $ git init
   ```
 ### Step 2: First Commit
 - [ ] Create a markdown file named "README.md"
@@ -29,6 +32,7 @@
 - [ ] Check status
 - [ ] Stage the changes and commit with a message
     ``` 
+        -- Check the status of the repo
         $ git status
 
         -- Stage single file
@@ -73,3 +77,5 @@
     ```
         $ git pull
     ```
+### Step 4: Branching
+- 
