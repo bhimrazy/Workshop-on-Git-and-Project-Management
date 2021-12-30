@@ -145,9 +145,10 @@
  
 ### Step 11: Some of the extra features of Github
 - [ ] Github Actions and it's importances
-- [ ] Demonstration with few example.
+- [ ] Demonstration with few example
+- [ ] Discuss about github pages
 - [ ] See some concepts of CI/CD
-- [ ] How testing and deployment works.
+- [ ] How testing and deployment works
 - [ ] Writing readme files in readme.so
 
 ## 📚 RESOURCES:
