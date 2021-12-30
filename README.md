@@ -95,5 +95,12 @@
     ```
 - [ ] Make some changes and then push
     ```
-        -- Try git push. It will throw some error with correct command
+        -- Try git push. It will throw some fatal error with correct command
+        $ git push --set-upstream origin [branch name]
+
+        -- Delete merged branch
+        $ git branch -d [branch name]
+
+        -- Force delete
+        $ git branch -fd [branch name]
     ```
