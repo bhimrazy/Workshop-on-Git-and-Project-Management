@@ -107,4 +107,44 @@
         -- Force delete
         $ git branch -fd [branch name]
     ```
-### Step 5: Branching
+### Step 6: Making pull Request and Merge
+- [ ] Open github repo url and make pull request
+- [ ] Add title, description and few lables (optional)
+- [ ] Make some review if required
+- [ ] Merge the branch and delete the branch if not required
+
+### Step 7: Collaborating into the project
+- [ ] Go to setting of the repo you are working
+- [ ] Select manage access in the sidebar
+- [ ] Add friends usernames with whom you want to collaborate
+- [ ] Clone the repo (Not for the owner of the repo)
+- [ ] Follow step 5 and 6 to create branch , make changes and merge
+- [ ] Solve conflict if arised
+
+### Step 8: Creating Issues
+- [ ] Go to issues section of the repo and create a issue
+- [ ] Describe the issue you want to create eg: bug request , feature request , etc
+- [ ] Add assignee, label, etc for the issue
+- [ ] Solve the issue by creating a PR that fixes the issue
+- [ ] Setup templates for the issue ( optional) from setting of the repo
+
+### Step 9: Creating Discussion Board
+- [ ] Go to setting section of the repo
+- [ ] Enable Dissussion option
+- [ ] Go to Discussion Section
+- [ ] Add few discussions
+- [ ] See alternative way of discussing through slack
+
+### Step 10: Setting up projects to track the progress
+- [ ] Go to projects section and create a project named "progress board"
+- [ ] Setup workflow
+- [ ] Add few story for the backlogs
+- [ ] Setup automation
+- [ ] make some issuess wit pr and see the progress
+- [ ] See alternatives eg: trello, jira.
+ 
+### Step 11: Some of the extra features of Github
+- [ ] Github Actions and it's importances
+- [ ] Demonstration with few example.
+
+ 
