@@ -77,10 +77,10 @@
     ```
         $ git pull
     ```
+- [ ] Try GUI based commiting and pushing changes
 ### Step 4: Ignoring the files
 - [ ] Create a .gitignore file
 - [ ] Add file names to gitignore to prevent from tracking
-
 ### Step 5: Branching
 - [ ] Create a new branch named "add-feature-by-your_name" and checkout
     ```
@@ -93,8 +93,11 @@
         -- Checkout to new branch
         $ git checkout [branch name]
     ```
-- [ ] Make some changes and then push
+- [ ] Make some changes, stage them and then push
     ```
+        -- To add and commit at once
+        $ git commit -am"[descriptive message]"
+
         -- Try git push. It will throw some fatal error with correct command
         $ git push --set-upstream origin [branch name]
 
@@ -104,3 +107,4 @@
         -- Force delete
         $ git branch -fd [branch name]
     ```
+### Step 5: Branching
