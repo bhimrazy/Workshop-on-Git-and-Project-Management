@@ -11,10 +11,10 @@
 - [ ] Setup user configuration
     
   ```
-      Configure user information for all local repositories
+      -- Configure user information for all local repositories
       $ git config --global user.name "[name]"
 
-      //Sets the name you want attached to your commit transactions
+      -- Sets the name you want attached to your commit transactions
       $ git config --global user.email "[email address]"
   ```
 ### Step 2: First Commit
@@ -25,15 +25,41 @@
     ``` 
         $ git status
 
-        Stage single file
+        -- Stage single file
         $ git add [file]
 
-        Stage all files with in the repo at once
+        -- Stage all files with in the repo at once
         $ git add .
 
-        Commit the changes
+        -- Commit the changes
         $ git commit -m"[descriptive message]"
 
-        To add and commit at once
+        -- To add and commit at once
         $ git commit -am"[descriptive message]"
+
+        -- Check logs
+        $ git log
+        $ git log --oneline
+    ```
+### Step 3: Push to github Repo
+- [ ] Create a github repo with default setting
+- [ ] Add remote url of the repo and push
+    ```
+        -- Push an existing repository from the command line
+        $ git remote add origin [repo url]
+        $ git branch -M main
+        $ git push -u origin main
+    ```
+- [ ] Setup configuration of authentication for vscode with default setting
+    ```
+        -- Optional Auth Setting after entering usename and password to cache for 1 hour
+        $ git config --global credential.helper "cache --timeout=86400"
+    ```
+- [ ] Make some another changes and push
+    ```
+        $ git push
+
+        -- Check some differences
+        $ git diff
+        -- Hit q to get out of the diff
     ```
