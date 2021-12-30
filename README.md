@@ -60,7 +60,7 @@
         $ git branch -M main
         $ git push -u origin main
     ```
-- [ ] Setup configuration of authentication for vscode with default setting
+- [ ] Setup configuration of authentication for github through vscode with default setting
     ```
         -- Optional Auth Setting after entering usename and password to cache for 1 hour
         $ git config --global credential.helper "cache --timeout=86400"
