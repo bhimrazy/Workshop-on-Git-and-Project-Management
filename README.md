@@ -81,4 +81,19 @@
 - [ ] Create a .gitignore file
 - [ ] Add file names to gitignore to prevent from tracking
 
-### Step 5: Ignoring the files
+### Step 5: Branching
+- [ ] Create a new branch named "add-feature-by-your_name" and checkout
+    ```
+        -- Check branches
+        $ git branch
+
+        -- Create a new branch 
+        $ git branch "add-feature-by-your_name"
+
+        -- Checkout to new branch
+        $ git checkout [branch name]
+    ```
+- [ ] Make some changes and then push
+    ```
+        -- Try git push. It will throw some error with correct command
+    ```
