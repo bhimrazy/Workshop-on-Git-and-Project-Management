@@ -146,5 +146,7 @@
 ### Step 11: Some of the extra features of Github
 - [ ] Github Actions and it's importances
 - [ ] Demonstration with few example.
+- [ ] See some concepts of CI/CD
+- [ ] How testing and deployment works.
 
  
