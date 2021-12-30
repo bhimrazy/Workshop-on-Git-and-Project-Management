@@ -77,5 +77,8 @@
     ```
         $ git pull
     ```
-### Step 4: Branching
-- 
+### Step 4: Ignoring the files
+- [ ] Create a .gitignore file
+- [ ] Add file names to gitignore to prevent from tracking
+
+### Step 5: Ignoring the files
